@@ -1,0 +1,123 @@
+{"datos":[
+
+    {
+
+        "event_time": "2020-04-24 11:50:39 UTC",
+
+        "order_id": "2294359932054536986",
+
+        "product_id": "1515966223509089906",
+
+        "category_id": "2268105426648170900",
+
+        "category_code": "electronics.tablet",
+
+        "brand": "samsung",
+
+        "price": "162.01",
+
+        "user_id": "1515915625441993984"
+
+    },
+
+    {
+
+        "event_time": "2020-04-24 11:50:39 UTC",
+
+        "order_id": "2294359932054536986",
+
+        "product_id": "1515966223509089906",
+
+        "category_id": "2268105426648170900",
+
+        "category_code": "electronics.tablet",
+
+        "brand": "samsung",
+
+        "price": "162.01",
+
+        "user_id": "1515915625441993984"
+
+    },
+
+    {
+
+        "event_time": "2020-04-24 14:37:43 UTC",
+
+        "order_id": "2294444024058086220",
+
+        "product_id": "2273948319057183658",
+
+        "category_id": "2268105430162997728",
+
+        "category_code": "electronics.audio.headphone",
+
+        "brand": "huawei",
+
+        "price": "77.52",
+
+        "user_id": "1515915625447879434"
+
+    },
+
+    {
+
+        "event_time": "2020-04-24 14:37:43 UTC",
+
+        "order_id": "2294444024058086220",
+
+        "product_id": "2273948319057183658",
+
+        "category_id": "2268105430162997728",
+
+        "category_code": "electronics.audio.headphone",
+
+        "brand": "huawei",
+
+        "price": "77.52",
+
+        "user_id": "1515915625447879434"
+
+    },
+
+    {
+
+        "event_time": "2020-04-24 19:16:21 UTC",
+
+        "order_id": "2294584263154074236",
+
+        "product_id": "2273948316817424439",
+
+        "category_id": "2268105471367840086",
+
+        "category_code": "",
+
+        "brand": "karcher",
+
+        "price": "217.57",
+
+        "user_id": "1515915625443148002"
+
+    },
+
+    {
+
+        "event_time": "2020-04-26 08:45:57 UTC",
+
+        "order_id": "2295716521449619559",
+
+        "product_id": "1515966223509261697",
+
+        "category_id": "2268105442636858090",
+
+        "category_code": "furniture.kitchen.table",
+
+        "brand": "maestro",
+
+        "price": "39.33",
+
+        "user_id": "1515915625450382722"
+
+    }
+  ]
+}
