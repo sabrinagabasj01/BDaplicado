@@ -1,0 +1,991 @@
+Country,Category,TotalUnits,TotalRevenue
+USA    ,Laptops    ,4,2688,0
+Spain  ,Laptops    ,2,1832,0
+UK     ,Laptops    ,5,3705,0
+Germany,Laptops    ,1,813,0
+USA    ,Laptops    ,2,92,0
+Spain  ,Laptops    ,5,2330,0
+France ,Laptops    ,6,4938,0
+Spain  ,Laptops    ,8,7561,0
+USA    ,Laptops    ,5,3685,0
+France ,Laptops    ,2,764,0
+Germany,Laptops    ,7,6853,0
+Italy  ,Laptops    ,3,2823,0
+UK     ,Laptops    ,1,993,0
+Spain  ,Laptops    ,4,212,0
+France ,Laptops    ,1,675,0
+Italy  ,Laptops    ,6,5394,0
+USA    ,Laptops    ,4,2548,0
+Spain  ,Laptops    ,5,110,0
+France ,Laptops    ,2,1862,0
+Spain  ,Laptops    ,9,5018,0
+Germany,Laptops    ,7,2002,0
+UK     ,Laptops    ,19,6318,0
+Germany,Laptops    ,6,4584,0
+USA    ,Laptops    ,4,3344,0
+Germany,Laptops    ,3,834,0
+UK     ,Laptops    ,4,2724,0
+Germany,Laptops    ,4,376,0
+Italy  ,Laptops    ,1,948,0
+Germany,Laptops    ,3,2010,0
+UK     ,Laptops    ,7,4886,0
+France ,Laptops    ,6,5070,0
+UK     ,Laptops    ,1,545,0
+Italy  ,Laptops    ,5,3605,0
+UK     ,Laptops    ,1,30,0
+Italy  ,Laptops    ,5,3935,0
+USA    ,Laptops    ,1,392,0
+Italy  ,Laptops    ,3,1797,0
+Spain  ,Laptops    ,6,5166,0
+Germany,Laptops    ,4,3700,0
+Spain  ,Laptops    ,3,2046,0
+Germany,Laptops    ,5,2525,0
+UK     ,Laptops    ,2,64,0
+Italy  ,Laptops    ,7,1484,0
+USA    ,Accessories,2,1486,0
+Italy  ,Accessories,2,888,0
+Spain  ,Accessories,2,1866,0
+Germany,Accessories,6,4650,0
+UK     ,Accessories,6,2988,0
+Germany,Accessories,5,360,0
+USA    ,Accessories,11,6776,0
+Spain  ,Accessories,15,6145,0
+France ,Accessories,5,1510,0
+UK     ,Accessories,4,76,0
+Spain  ,Accessories,4,3500,0
+USA    ,Accessories,5,3198,0
+Spain  ,Accessories,3,1803,0
+Germany,Accessories,4,3208,0
+Spain  ,Accessories,6,3372,0
+France ,Accessories,7,1635,0
+USA    ,Accessories,3,159,0
+Germany,Accessories,5,1870,0
+UK     ,Accessories,1,434,0
+Spain  ,Accessories,6,5106,0
+Germany,Accessories,1,103,0
+France ,Accessories,6,3147,0
+USA    ,Accessories,7,686,0
+France ,Accessories,6,1728,0
+Spain  ,Accessories,4,2304,0
+Italy  ,Accessories,6,4272,0
+France ,Accessories,2,978,0
+UK     ,Accessories,1,961,0
+USA    ,Accessories,3,1500,0
+France ,Accessories,6,2280,0
+Germany,Accessories,6,5790,0
+Spain  ,Accessories,5,3675,0
+Germany,Accessories,1,220,0
+USA    ,Accessories,5,565,0
+Spain  ,Accessories,13,10173,0
+UK     ,Accessories,4,3416,0
+Italy  ,Accessories,6,636,0
+USA    ,Accessories,1,384,0
+Spain  ,Accessories,3,1560,0
+Germany,Accessories,5,975,0
+Italy  ,Accessories,6,3642,0
+USA    ,Accessories,2,992,0
+Spain  ,Accessories,6,1746,0
+France ,Accessories,3,1245,0
+Spain  ,Accessories,7,3717,0
+Germany,Accessories,4,832,0
+UK     ,Accessories,5,2355,0
+Spain  ,Accessories,6,1068,0
+USA    ,Accessories,2,868,0
+Italy  ,Accessories,6,3012,0
+USA    ,Accessories,7,2184,0
+Italy  ,Accessories,7,3710,0
+France ,Accessories,1,263,0
+UK     ,Accessories,6,1398,0
+USA    ,Accessories,6,2268,0
+Spain  ,Accessories,1,135,0
+Italy  ,Accessories,5,3549,0
+Spain  ,Accessories,3,432,0
+UK     ,Accessories,2,1658,0
+Germany,Accessories,5,3150,0
+France ,Accessories,4,3900,0
+Italy  ,Accessories,5,340,0
+France ,Accessories,6,5190,0
+Spain  ,Accessories,4,2664,0
+Germany,Accessories,3,1209,0
+UK     ,Accessories,7,3906,0
+Germany,Accessories,7,6209,0
+Italy  ,Accessories,12,1542,0
+UK     ,Accessories,3,1884,0
+Spain  ,Accessories,3,120,0
+Germany,Accessories,3,1032,0
+USA    ,Audio      ,3,2313,0
+Italy  ,Audio      ,5,1010,0
+Germany,Audio      ,6,4266,0
+France ,Audio      ,2,788,0
+USA    ,Audio      ,3,2103,0
+Spain  ,Audio      ,2,1854,0
+Germany,Audio      ,1,94,0
+USA    ,Audio      ,12,8000,0
+Germany,Audio      ,6,5172,0
+UK     ,Audio      ,2,1668,0
+Spain  ,Audio      ,4,2764,0
+France ,Audio      ,3,525,0
+USA    ,Audio      ,2,320,0
+Germany,Audio      ,6,3948,0
+Italy  ,Audio      ,2,820,0
+Spain  ,Audio      ,6,2664,0
+USA    ,Audio      ,10,7014,0
+Spain  ,Audio      ,4,3400,0
+France ,Audio      ,2,662,0
+Germany,Audio      ,3,2913,0
+France ,Audio      ,7,3178,0
+Germany,Audio      ,7,4896,0
+Italy  ,Audio      ,7,1596,0
+Germany,Audio      ,2,52,0
+USA    ,Audio      ,1,126,0
+UK     ,Audio      ,8,3808,0
+Germany,Audio      ,3,1128,0
+UK     ,Audio      ,1,588,0
+Italy  ,Audio      ,2,1166,0
+France ,Audio      ,6,3522,0
+Italy  ,Audio      ,7,5453,0
+USA    ,Audio      ,4,2228,0
+Spain  ,Audio      ,5,3135,0
+Germany,Audio      ,4,2900,0
+Italy  ,Audio      ,7,406,0
+Spain  ,Audio      ,4,220,0
+USA    ,Audio      ,4,1568,0
+Germany,Audio      ,15,8401,0
+USA    ,Audio      ,6,5268,0
+Spain  ,Audio      ,6,4494,0
+USA    ,Audio      ,6,4656,0
+France ,Audio      ,1,502,0
+Italy  ,Audio      ,4,2792,0
+USA    ,Audio      ,5,3165,0
+France ,Audio      ,3,288,0
+Italy  ,Audio      ,6,2982,0
+France ,Audio      ,4,2368,0
+Germany,Audio      ,4,1128,0
+USA    ,Audio      ,4,864,0
+UK     ,Audio      ,4,1644,0
+Italy  ,Audio      ,6,1536,0
+Spain  ,Audio      ,5,3320,0
+Germany,Audio      ,5,3730,0
+Spain  ,Audio      ,4,3220,0
+France ,Audio      ,4,568,0
+UK     ,Audio      ,3,2184,0
+Italy  ,Audio      ,4,3204,0
+UK     ,Audio      ,3,588,0
+Germany,Audio      ,4,1908,0
+France ,Audio      ,4,912,0
+Italy  ,Audio      ,1,640,0
+USA    ,Audio      ,12,5107,0
+Germany,Audio      ,2,762,0
+Italy  ,Audio      ,1,714,0
+USA    ,Audio      ,1,684,0
+Germany,Audio      ,4,2540,0
+Italy  ,Audio      ,6,1692,0
+France ,Audio      ,2,1574,0
+Germany,Audio      ,1,415,0
+Spain  ,Audio      ,5,2140,0
+Germany,Audio      ,1,260,0
+UK     ,Audio      ,4,1640,0
+Spain  ,Audio      ,9,2305,0
+France ,Audio      ,4,1500,0
+Germany,Audio      ,7,1540,0
+Italy  ,Audio      ,6,4698,0
+USA    ,Audio      ,6,5934,0
+Italy  ,Phones     ,6,2394,0
+UK     ,Phones     ,3,2250,0
+Italy  ,Phones     ,5,1010,0
+Spain  ,Phones     ,7,3024,0
+UK     ,Phones     ,2,844,0
+Italy  ,Phones     ,2,1188,0
+USA    ,Phones     ,3,1209,0
+Spain  ,Phones     ,4,2596,0
+UK     ,Phones     ,2,920,0
+USA    ,Phones     ,8,5072,0
+Spain  ,Phones     ,2,1068,0
+UK     ,Phones     ,2,224,0
+Germany,Phones     ,14,8694,0
+Italy  ,Phones     ,1,49,0
+USA    ,Phones     ,1,937,0
+UK     ,Phones     ,5,4675,0
+Spain  ,Phones     ,9,4960,0
+USA    ,Phones     ,6,588,0
+UK     ,Phones     ,2,1574,0
+France ,Phones     ,7,637,0
+UK     ,Phones     ,5,60,0
+Germany,Phones     ,5,3955,0
+Italy  ,Phones     ,6,5196,0
+USA    ,Phones     ,13,2524,0
+Spain  ,Phones     ,3,1617,0
+USA    ,Phones     ,1,114,0
+UK     ,Phones     ,3,1362,0
+USA    ,Phones     ,4,2712,0
+France ,Phones     ,1,319,0
+UK     ,Phones     ,7,189,0
+USA    ,Phones     ,1,519,0
+France ,Phones     ,1,436,0
+USA    ,Phones     ,3,1629,0
+Italy  ,Phones     ,1,271,0
+Germany,Phones     ,3,2997,0
+USA    ,Phones     ,7,4032,0
+Spain  ,Phones     ,6,1560,0
+Italy  ,Phones     ,4,724,0
+France ,Phones     ,1,684,0
+Spain  ,Phones     ,6,3726,0
+Germany,Phones     ,3,1311,0
+France ,Phones     ,3,1026,0
+Italy  ,Phones     ,3,2373,0
+USA    ,Phones     ,5,2070,0
+UK     ,Phones     ,2,190,0
+France ,Phones     ,7,5642,0
+Italy  ,Phones     ,6,2142,0
+Spain  ,Phones     ,5,4410,0
+UK     ,Phones     ,7,5579,0
+France ,Phones     ,4,3008,0
+Italy  ,Phones     ,4,1386,0
+France ,Phones     ,8,3044,0
+Germany,Phones     ,3,579,0
+UK     ,Phones     ,4,2560,0
+USA    ,Phones     ,10,4102,0
+Italy  ,Phones     ,3,849,0
+Spain  ,Phones     ,6,5406,0
+Italy  ,Phones     ,6,1788,0
+UK     ,Phones     ,1,791,0
+Germany,Phones     ,6,4374,0
+USA    ,Phones     ,7,3754,0
+Italy  ,Phones     ,3,2415,0
+USA    ,Phones     ,5,4220,0
+UK     ,Phones     ,1,194,0
+USA    ,Phones     ,2,1794,0
+France ,Phones     ,1,639,0
+USA    ,Phones     ,3,849,0
+UK     ,Phones     ,2,1034,0
+Spain  ,Phones     ,5,4135,0
+Germany,Phones     ,4,704,0
+Spain  ,Phones     ,1,861,0
+UK     ,Laptops    ,5,1750,0
+Spain  ,Laptops    ,5,4230,0
+France ,Laptops    ,5,1885,0
+UK     ,Laptops    ,8,542,0
+Italy  ,Laptops    ,3,2391,0
+France ,Laptops    ,5,2455,0
+USA    ,Laptops    ,6,660,0
+France ,Laptops    ,7,1127,0
+USA    ,Laptops    ,1,926,0
+UK     ,Laptops    ,1,307,0
+Germany,Laptops    ,5,425,0
+UK     ,Laptops    ,6,2076,0
+USA    ,Laptops    ,2,1274,0
+UK     ,Laptops    ,7,5663,0
+France ,Laptops    ,2,1456,0
+Italy  ,Laptops    ,4,3356,0
+USA    ,Laptops    ,3,2598,0
+Spain  ,Laptops    ,12,3623,0
+Germany,Laptops    ,5,3960,0
+UK     ,Laptops    ,4,560,0
+France ,Laptops    ,7,4025,0
+USA    ,Laptops    ,1,693,0
+Germany,Laptops    ,5,4475,0
+USA    ,Laptops    ,1,234,0
+France ,Laptops    ,6,5958,0
+USA    ,Laptops    ,3,1368,0
+Spain  ,Laptops    ,1,976,0
+USA    ,Laptops    ,2,464,0
+Spain  ,Laptops    ,6,2886,0
+France ,Laptops    ,4,2172,0
+USA    ,Laptops    ,7,1143,0
+Italy  ,Laptops    ,2,1342,0
+USA    ,Laptops    ,3,852,0
+UK     ,Laptops    ,10,6622,0
+France ,Laptops    ,2,1686,0
+USA    ,Laptops    ,4,52,0
+Germany,Laptops    ,7,84,0
+Spain  ,Laptops    ,1,506,0
+France ,Laptops    ,1,347,0
+UK     ,Laptops    ,3,2139,0
+France ,Laptops    ,1,247,0
+Germany,Laptops    ,2,1040,0
+France ,Laptops    ,5,2125,0
+Spain  ,Laptops    ,7,2373,0
+UK     ,Laptops    ,7,1484,0
+Germany,Laptops    ,7,5019,0
+Italy  ,Laptops    ,5,4810,0
+Germany,Laptops    ,7,3552,0
+Spain  ,Laptops    ,2,1806,0
+USA    ,Laptops    ,6,2904,0
+France ,Laptops    ,4,3396,0
+Italy  ,Laptops    ,1,469,0
+UK     ,Laptops    ,3,2445,0
+France ,Laptops    ,2,188,0
+Italy  ,Laptops    ,7,5943,0
+UK     ,Phones     ,3,2136,0
+France ,Phones     ,3,300,0
+Spain  ,Phones     ,2,1786,0
+UK     ,Phones     ,1,417,0
+Italy  ,Phones     ,7,648,0
+USA    ,Phones     ,3,1803,0
+UK     ,Phones     ,3,840,0
+France ,Phones     ,5,3564,0
+Spain  ,Phones     ,7,4305,0
+France ,Phones     ,3,252,0
+UK     ,Phones     ,1,811,0
+USA    ,Phones     ,2,1184,0
+Germany,Phones     ,5,4275,0
+USA    ,Phones     ,6,2642,0
+Italy  ,Phones     ,4,3676,0
+Spain  ,Phones     ,3,1368,0
+France ,Phones     ,4,296,0
+Spain  ,Phones     ,4,3480,0
+Germany,Phones     ,2,260,0
+UK     ,Phones     ,1,537,0
+Germany,Phones     ,7,6202,0
+UK     ,Phones     ,6,5874,0
+Spain  ,Phones     ,3,1389,0
+Italy  ,Phones     ,6,2868,0
+USA    ,Phones     ,3,2493,0
+France ,Phones     ,1,233,0
+Germany,Phones     ,4,3808,0
+USA    ,Phones     ,1,236,0
+Germany,Phones     ,5,2185,0
+France ,Phones     ,1,595,0
+Spain  ,Phones     ,1,953,0
+France ,Phones     ,5,1105,0
+Italy  ,Phones     ,1,21,0
+France ,Phones     ,3,834,0
+Spain  ,Phones     ,4,3760,0
+Italy  ,Phones     ,5,3105,0
+France ,Phones     ,3,57,0
+USA    ,Phones     ,6,4782,0
+Germany,Phones     ,7,3199,0
+UK     ,Phones     ,7,6244,0
+Spain  ,Phones     ,6,4368,0
+Spain  ,Accessories,2,134,0
+UK     ,Accessories,4,2012,0
+Italy  ,Accessories,5,205,0
+Spain  ,Accessories,8,3206,0
+USA    ,Accessories,1,336,0
+Italy  ,Accessories,4,2488,0
+Spain  ,Accessories,3,708,0
+Germany,Accessories,7,4718,0
+USA    ,Accessories,4,3324,0
+Germany,Accessories,4,3948,0
+USA    ,Accessories,6,3012,0
+Germany,Accessories,2,938,0
+France ,Accessories,12,6745,0
+Germany,Accessories,6,4914,0
+UK     ,Accessories,14,5183,0
+France ,Accessories,7,1829,0
+Italy  ,Accessories,2,850,0
+Germany,Accessories,2,1726,0
+USA    ,Accessories,3,183,0
+UK     ,Accessories,2,1778,0
+Italy  ,Accessories,6,3840,0
+Germany,Accessories,4,1540,0
+Italy  ,Accessories,2,1646,0
+France ,Accessories,1,366,0
+Italy  ,Accessories,9,2988,0
+Germany,Accessories,3,1749,0
+Italy  ,Accessories,6,4326,0
+Spain  ,Accessories,7,4466,0
+Italy  ,Accessories,3,828,0
+Spain  ,Accessories,3,1088,0
+Italy  ,Accessories,6,5435,0
+France ,Accessories,7,798,0
+Germany,Accessories,5,2260,0
+France ,Accessories,7,5453,0
+Germany,Accessories,3,2994,0
+UK     ,Accessories,3,1755,0
+Italy  ,Accessories,4,3764,0
+France ,Accessories,7,2604,0
+UK     ,Audio      ,4,1332,0
+USA    ,Audio      ,2,1938,0
+Germany,Audio      ,4,332,0
+Italy  ,Audio      ,4,3836,0
+USA    ,Audio      ,5,3760,0
+Germany,Audio      ,3,744,0
+USA    ,Audio      ,7,2688,0
+Spain  ,Audio      ,7,280,0
+Italy  ,Audio      ,4,60,0
+Germany,Audio      ,3,1056,0
+Spain  ,Audio      ,6,1368,0
+Italy  ,Audio      ,4,3780,0
+Germany,Audio      ,2,1654,0
+UK     ,Audio      ,1,501,0
+Spain  ,Audio      ,2,1254,0
+Italy  ,Audio      ,4,1692,0
+USA    ,Audio      ,2,780,0
+Italy  ,Audio      ,4,3368,0
+France ,Audio      ,5,3795,0
+Spain  ,Audio      ,6,5712,0
+Italy  ,Audio      ,3,531,0
+Spain  ,Audio      ,7,4788,0
+Germany,Audio      ,6,3642,0
+Italy  ,Audio      ,1,560,0
+USA    ,Audio      ,1,794,0
+France ,Audio      ,4,2112,0
+USA    ,Audio      ,6,1956,0
+Italy  ,Audio      ,1,441,0
+USA    ,Audio      ,6,5592,0
+Spain  ,Audio      ,1,94,0
+Italy  ,Audio      ,7,567,0
+UK     ,Audio      ,1,110,0
+USA    ,Audio      ,1,369,0
+Italy  ,Audio      ,3,1662,0
+USA    ,Audio      ,1,751,0
+France ,Audio      ,3,2586,0
+USA    ,Audio      ,5,1795,0
+UK     ,Audio      ,7,602,0
+Spain  ,Audio      ,3,2124,0
+France ,Audio      ,6,228,0
+Spain  ,Audio      ,2,1766,0
+USA    ,Audio      ,5,2080,0
+Spain  ,Audio      ,3,1155,0
+Germany,Audio      ,4,2742,0
+Italy  ,Audio      ,7,5880,0
+UK     ,Audio      ,6,4236,0
+Germany,Audio      ,7,3549,0
+Italy  ,Phones     ,4,1900,0
+France ,Phones     ,4,2508,0
+USA    ,Phones     ,1,683,0
+Spain  ,Phones     ,6,4248,0
+UK     ,Phones     ,5,4850,0
+Spain  ,Phones     ,4,1368,0
+France ,Phones     ,1,892,0
+UK     ,Phones     ,3,1155,0
+Spain  ,Phones     ,5,3340,0
+UK     ,Phones     ,10,4257,0
+France ,Phones     ,4,2604,0
+USA    ,Phones     ,7,525,0
+Germany,Phones     ,2,62,0
+France ,Phones     ,5,3920,0
+UK     ,Phones     ,14,7279,0
+France ,Phones     ,5,4415,0
+USA    ,Phones     ,2,212,0
+Germany,Phones     ,2,780,0
+France ,Phones     ,5,4835,0
+Germany,Phones     ,6,942,0
+Spain  ,Phones     ,3,1740,0
+UK     ,Phones     ,3,2205,0
+USA    ,Phones     ,7,3087,0
+Italy  ,Phones     ,14,5530,0
+France ,Phones     ,5,1965,0
+Germany,Phones     ,2,842,0
+USA    ,Phones     ,5,1894,0
+UK     ,Phones     ,1,864,0
+France ,Phones     ,4,2760,0
+Spain  ,Phones     ,6,1388,0
+USA    ,Phones     ,13,1402,0
+Italy  ,Phones     ,2,192,0
+USA    ,Phones     ,6,3660,0
+UK     ,Phones     ,4,1612,0
+Germany,Phones     ,2,560,0
+France ,Phones     ,1,425,0
+Spain  ,Phones     ,2,98,0
+Germany,Phones     ,2,1772,0
+USA    ,Phones     ,5,2710,0
+UK     ,Phones     ,3,738,0
+France ,Phones     ,6,258,0
+Spain  ,Phones     ,4,2832,0
+Italy  ,Phones     ,7,4446,0
+USA    ,Phones     ,12,5324,0
+Spain  ,Phones     ,2,774,0
+France ,Phones     ,5,4605,0
+UK     ,Phones     ,2,234,0
+Italy  ,Phones     ,3,102,0
+Spain  ,Phones     ,3,2823,0
+Germany,Phones     ,3,2694,0
+Italy  ,Phones     ,9,1265,0
+Germany,Phones     ,3,162,0
+USA    ,Phones     ,7,1974,0
+Spain  ,Phones     ,2,1912,0
+France ,Phones     ,7,483,0
+Italy  ,Phones     ,7,3829,0
+Germany,Phones     ,2,982,0
+UK     ,Phones     ,5,3505,0
+Spain  ,Phones     ,10,3867,0
+USA    ,Phones     ,4,3408,0
+France ,Phones     ,7,3462,0
+USA    ,Phones     ,3,2034,0
+Germany,Phones     ,5,1315,0
+France ,Phones     ,5,4945,0
+Italy  ,Phones     ,20,9953,0
+USA    ,Laptops    ,4,224,0
+France ,Laptops    ,6,4242,0
+Germany,Laptops    ,8,6795,0
+Spain  ,Laptops    ,2,274,0
+Italy  ,Laptops    ,2,1524,0
+Germany,Laptops    ,6,3510,0
+USA    ,Laptops    ,7,5488,0
+Germany,Laptops    ,5,4535,0
+UK     ,Laptops    ,3,486,0
+Italy  ,Laptops    ,5,4925,0
+Germany,Laptops    ,2,350,0
+France ,Laptops    ,7,2597,0
+USA    ,Laptops    ,3,2943,0
+UK     ,Laptops    ,1,870,0
+Italy  ,Laptops    ,14,6937,0
+Spain  ,Laptops    ,2,1606,0
+France ,Laptops    ,3,2184,0
+UK     ,Laptops    ,6,3102,0
+Italy  ,Laptops    ,3,1821,0
+Spain  ,Laptops    ,4,1240,0
+France ,Laptops    ,3,558,0
+Italy  ,Laptops    ,7,5152,0
+Spain  ,Laptops    ,1,647,0
+Germany,Laptops    ,1,649,0
+Spain  ,Laptops    ,3,222,0
+UK     ,Laptops    ,4,2096,0
+France ,Laptops    ,6,774,0
+UK     ,Laptops    ,2,1156,0
+Germany,Laptops    ,6,5556,0
+Spain  ,Laptops    ,2,284,0
+France ,Laptops    ,3,1128,0
+Spain  ,Laptops    ,2,1386,0
+Germany,Laptops    ,6,767,0
+USA    ,Laptops    ,3,1863,0
+UK     ,Laptops    ,2,866,0
+Italy  ,Laptops    ,7,469,0
+UK     ,Laptops    ,4,1416,0
+France ,Laptops    ,13,3628,0
+UK     ,Laptops    ,5,265,0
+Spain  ,Laptops    ,3,300,0
+Italy  ,Laptops    ,1,691,0
+France ,Laptops    ,11,6756,0
+Spain  ,Laptops    ,1,747,0
+France ,Laptops    ,4,680,0
+Germany,Laptops    ,9,5854,0
+France ,Laptops    ,1,398,0
+UK     ,Laptops    ,6,1602,0
+Italy  ,Laptops    ,6,4536,0
+France ,Laptops    ,5,2052,0
+Germany,Laptops    ,5,2586,0
+Italy  ,Laptops    ,4,3740,0
+Spain  ,Laptops    ,4,2176,0
+Italy  ,Laptops    ,3,39,0
+Spain  ,Laptops    ,1,179,0
+Germany,Laptops    ,5,165,0
+UK     ,Laptops    ,1,76,0
+Italy  ,Laptops    ,2,1280,0
+Germany,Laptops    ,4,3280,0
+USA    ,Laptops    ,2,1124,0
+France ,Laptops    ,6,5946,0
+Italy  ,Laptops    ,6,1020,0
+Spain  ,Laptops    ,7,6412,0
+UK     ,Laptops    ,4,1860,0
+France ,Laptops    ,7,1225,0
+Italy  ,Laptops    ,2,1308,0
+UK     ,Laptops    ,11,3856,0
+Spain  ,Laptops    ,6,1374,0
+UK     ,Laptops    ,5,80,0
+USA    ,Laptops    ,3,1317,0
+UK     ,Laptops    ,7,2549,0
+Germany,Laptops    ,7,4739,0
+Italy  ,Laptops    ,9,8618,0
+UK     ,Laptops    ,1,139,0
+USA    ,Laptops    ,6,468,0
+France ,Laptops    ,4,1808,0
+UK     ,Laptops    ,7,3045,0
+Germany,Laptops    ,5,1625,0
+USA    ,Laptops    ,3,2220,0
+UK     ,Laptops    ,5,2675,0
+Germany,Accessories,4,1492,0
+France ,Accessories,6,5346,0
+Spain  ,Accessories,5,4850,0
+USA    ,Accessories,3,2280,0
+UK     ,Accessories,2,1532,0
+France ,Accessories,7,6615,0
+Germany,Accessories,5,710,0
+UK     ,Accessories,4,3168,0
+Spain  ,Accessories,7,6993,0
+UK     ,Accessories,2,856,0
+Italy  ,Accessories,5,3100,0
+UK     ,Accessories,7,5554,0
+France ,Accessories,6,1128,0
+Spain  ,Accessories,7,5705,0
+Germany,Accessories,9,5384,0
+France ,Accessories,11,4167,0
+USA    ,Accessories,5,780,0
+Spain  ,Accessories,5,610,0
+UK     ,Accessories,6,3276,0
+Italy  ,Accessories,4,1956,0
+Germany,Accessories,4,3224,0
+Spain  ,Accessories,6,360,0
+France ,Accessories,7,1596,0
+Germany,Accessories,3,2385,0
+UK     ,Accessories,2,1934,0
+Italy  ,Accessories,7,294,0
+Spain  ,Accessories,9,1926,0
+Italy  ,Accessories,7,5880,0
+Spain  ,Accessories,5,400,0
+UK     ,Accessories,1,501,0
+USA    ,Accessories,1,734,0
+Germany,Accessories,1,490,0
+Spain  ,Accessories,5,1785,0
+Germany,Accessories,7,4914,0
+Germany,Audio      ,1,547,0
+UK     ,Audio      ,7,6363,0
+USA    ,Audio      ,6,1812,0
+Spain  ,Audio      ,2,730,0
+UK     ,Audio      ,11,570,0
+Italy  ,Audio      ,7,686,0
+Germany,Audio      ,9,1203,0
+France ,Audio      ,4,1680,0
+Germany,Audio      ,8,2832,0
+USA    ,Audio      ,2,1388,0
+France ,Audio      ,5,235,0
+Italy  ,Audio      ,7,3983,0
+France ,Audio      ,6,960,0
+Spain  ,Audio      ,7,6484,0
+France ,Audio      ,3,957,0
+Italy  ,Audio      ,1,450,0
+Germany,Audio      ,6,198,0
+France ,Audio      ,3,2973,0
+Germany,Audio      ,3,819,0
+USA    ,Audio      ,1,111,0
+Germany,Audio      ,9,6249,0
+UK     ,Audio      ,3,948,0
+France ,Audio      ,5,1175,0
+Italy  ,Audio      ,3,609,0
+Germany,Audio      ,15,4696,0
+Italy  ,Audio      ,7,3556,0
+Spain  ,Audio      ,2,1570,0
+UK     ,Audio      ,10,7604,0
+France ,Audio      ,3,1464,0
+Germany,Audio      ,4,332,0
+Spain  ,Audio      ,3,1923,0
+USA    ,Audio      ,2,558,0
+Italy  ,Audio      ,5,4525,0
+USA    ,Audio      ,7,2975,0
+UK     ,Audio      ,3,234,0
+France ,Audio      ,1,15,0
+UK     ,Audio      ,7,4263,0
+USA    ,Audio      ,7,4249,0
+Spain  ,Audio      ,1,941,0
+UK     ,Audio      ,5,2575,0
+Italy  ,Laptops    ,2,1180,0
+USA    ,Laptops    ,4,348,0
+France ,Laptops    ,4,3272,0
+Spain  ,Laptops    ,1,778,0
+UK     ,Laptops    ,2,1824,0
+USA    ,Laptops    ,3,1551,0
+Germany,Laptops    ,7,6041,0
+USA    ,Laptops    ,3,2493,0
+UK     ,Laptops    ,10,8716,0
+Spain  ,Laptops    ,4,3488,0
+UK     ,Laptops    ,6,402,0
+France ,Laptops    ,7,4690,0
+Germany,Laptops    ,5,4000,0
+USA    ,Laptops    ,3,1884,0
+Germany,Laptops    ,5,880,0
+Italy  ,Laptops    ,5,575,0
+France ,Laptops    ,6,1977,0
+Spain  ,Laptops    ,5,1165,0
+Germany,Laptops    ,3,2334,0
+Italy  ,Laptops    ,2,246,0
+Spain  ,Laptops    ,6,3444,0
+UK     ,Laptops    ,4,968,0
+France ,Laptops    ,3,2889,0
+UK     ,Laptops    ,6,3306,0
+Italy  ,Laptops    ,3,552,0
+France ,Laptops    ,5,1290,0
+UK     ,Laptops    ,2,889,0
+USA    ,Laptops    ,6,2020,0
+France ,Laptops    ,6,5658,0
+Italy  ,Phones     ,7,1801,0
+Germany,Phones     ,1,405,0
+UK     ,Phones     ,2,1012,0
+USA    ,Phones     ,2,1372,0
+Spain  ,Phones     ,1,501,0
+UK     ,Phones     ,8,3143,0
+USA    ,Phones     ,4,340,0
+Spain  ,Phones     ,3,2472,0
+France ,Phones     ,7,2912,0
+Italy  ,Phones     ,5,3860,0
+USA    ,Phones     ,5,1540,0
+Spain  ,Phones     ,3,1710,0
+France ,Phones     ,6,1110,0
+Spain  ,Phones     ,1,561,0
+UK     ,Phones     ,5,4390,0
+Spain  ,Phones     ,7,4187,0
+USA    ,Phones     ,1,250,0
+UK     ,Phones     ,8,3769,0
+France ,Phones     ,2,1826,0
+USA    ,Phones     ,4,2212,0
+France ,Phones     ,2,350,0
+Spain  ,Phones     ,5,3915,0
+USA    ,Phones     ,5,3700,0
+Germany,Phones     ,5,1924,0
+Spain  ,Phones     ,6,5472,0
+UK     ,Phones     ,7,4417,0
+France ,Phones     ,11,5695,0
+UK     ,Phones     ,2,640,0
+Italy  ,Phones     ,2,134,0
+UK     ,Phones     ,1,585,0
+France ,Phones     ,10,8640,0
+UK     ,Phones     ,7,6748,0
+Spain  ,Phones     ,5,4905,0
+France ,Phones     ,7,5369,0
+USA    ,Phones     ,2,1360,0
+Spain  ,Phones     ,6,3066,0
+USA    ,Phones     ,7,4508,0
+Spain  ,Phones     ,4,3892,0
+Italy  ,Phones     ,1,799,0
+France ,Phones     ,2,510,0
+Italy  ,Phones     ,5,1055,0
+UK     ,Phones     ,4,3732,0
+Italy  ,Phones     ,5,2540,0
+France ,Phones     ,6,1362,0
+Germany,Phones     ,2,822,0
+UK     ,Phones     ,3,2037,0
+France ,Phones     ,1,640,0
+Spain  ,Phones     ,6,2352,0
+Italy  ,Audio      ,2,1648,0
+France ,Audio      ,4,1576,0
+Germany,Audio      ,1,327,0
+USA    ,Audio      ,4,3080,0
+France ,Audio      ,1,519,0
+Italy  ,Audio      ,7,3787,0
+USA    ,Audio      ,1,535,0
+Italy  ,Audio      ,1,865,0
+Germany,Audio      ,6,840,0
+UK     ,Audio      ,6,4572,0
+Spain  ,Audio      ,1,564,0
+Germany,Audio      ,6,3696,0
+Italy  ,Audio      ,4,2408,0
+France ,Audio      ,5,1760,0
+USA    ,Audio      ,4,200,0
+Germany,Audio      ,2,98,0
+Italy  ,Audio      ,12,5213,0
+Germany,Audio      ,5,3395,0
+Spain  ,Audio      ,4,248,0
+Germany,Audio      ,5,4900,0
+Italy  ,Audio      ,1,957,0
+USA    ,Audio      ,2,1814,0
+Germany,Audio      ,6,4770,0
+USA    ,Audio      ,6,5430,0
+UK     ,Audio      ,6,1721,0
+Italy  ,Audio      ,1,521,0
+UK     ,Audio      ,4,1168,0
+Spain  ,Audio      ,6,774,0
+Italy  ,Audio      ,4,2744,0
+UK     ,Audio      ,3,1914,0
+Italy  ,Audio      ,2,1548,0
+Germany,Audio      ,7,3577,0
+Italy  ,Audio      ,3,2652,0
+USA    ,Audio      ,5,4290,0
+Spain  ,Audio      ,3,63,0
+Italy  ,Audio      ,1,830,0
+Germany,Audio      ,6,2687,0
+France ,Audio      ,6,5466,0
+Italy  ,Audio      ,7,6188,0
+Germany,Audio      ,7,1932,0
+UK     ,Audio      ,9,6747,0
+USA    ,Audio      ,13,9590,0
+UK     ,Audio      ,7,5397,0
+Germany,Audio      ,6,4242,0
+Italy  ,Audio      ,6,1398,0
+France ,Audio      ,1,186,0
+Spain  ,Audio      ,6,1800,0
+France ,Audio      ,3,888,0
+USA    ,Audio      ,1,84,0
+Italy  ,Audio      ,6,5496,0
+Spain  ,Audio      ,3,1554,0
+Germany,Audio      ,7,2982,0
+France ,Audio      ,4,3872,0
+Italy  ,Audio      ,5,2905,0
+Germany,Audio      ,5,1480,0
+Spain  ,Audio      ,2,1904,0
+Germany,Audio      ,6,3582,0
+Spain  ,Audio      ,4,3136,0
+UK     ,Audio      ,6,4752,0
+France ,Audio      ,2,148,0
+UK     ,Audio      ,4,1092,0
+Spain  ,Audio      ,8,3764,0
+Italy  ,Audio      ,6,5064,0
+Germany,Audio      ,4,1288,0
+France ,Audio      ,4,2196,0
+Spain  ,Audio      ,1,226,0
+USA    ,Audio      ,5,3060,0
+Italy  ,Audio      ,3,1953,0
+USA    ,Audio      ,3,2010,0
+Italy  ,Audio      ,4,2864,0
+France ,Audio      ,4,2212,0
+USA    ,Audio      ,15,10347,0
+France ,Audio      ,14,6083,0
+UK     ,Audio      ,2,1766,0
+France ,Audio      ,3,2478,0
+USA    ,Audio      ,6,2972,0
+Italy  ,Audio      ,2,1054,0
+USA    ,Phones     ,2,1724,0
+UK     ,Phones     ,1,664,0
+France ,Phones     ,5,2125,0
+USA    ,Phones     ,1,486,0
+UK     ,Phones     ,3,2532,0
+USA    ,Phones     ,8,2484,0
+UK     ,Phones     ,7,1645,0
+Spain  ,Phones     ,7,1877,0
+Italy  ,Phones     ,2,806,0
+Spain  ,Phones     ,11,8331,0
+USA    ,Phones     ,2,1326,0
+Spain  ,Phones     ,15,3153,0
+USA    ,Phones     ,5,4980,0
+France ,Phones     ,7,1484,0
+Italy  ,Phones     ,4,1644,0
+USA    ,Phones     ,12,4537,0
+Germany,Phones     ,4,1324,0
+France ,Phones     ,6,372,0
+Italy  ,Phones     ,1,924,0
+France ,Phones     ,3,831,0
+Italy  ,Phones     ,5,2006,0
+Spain  ,Phones     ,5,3740,0
+Germany,Phones     ,5,3505,0
+France ,Phones     ,9,6336,0
+UK     ,Phones     ,1,989,0
+USA    ,Phones     ,4,1880,0
+Spain  ,Phones     ,4,3804,0
+Germany,Phones     ,8,5483,0
+France ,Phones     ,5,3740,0
+Germany,Phones     ,5,200,0
+Italy  ,Phones     ,2,286,0
+Spain  ,Phones     ,6,5382,0
+UK     ,Phones     ,2,1096,0
+France ,Phones     ,2,1962,0
+UK     ,Phones     ,5,1265,0
+Spain  ,Phones     ,6,384,0
+France ,Phones     ,5,2780,0
+Germany,Phones     ,2,204,0
+UK     ,Phones     ,4,1978,0
+USA    ,Phones     ,6,558,0
+Germany,Phones     ,6,2274,0
+UK     ,Phones     ,3,582,0
+France ,Phones     ,3,72,0
+UK     ,Phones     ,2,1342,0
+Spain  ,Laptops    ,2,524,0
+USA    ,Laptops    ,2,1624,0
+UK     ,Laptops    ,11,6691,0
+Germany,Laptops    ,7,4123,0
+USA    ,Laptops    ,5,950,0
+Italy  ,Laptops    ,4,3408,0
+UK     ,Laptops    ,2,1980,0
+USA    ,Laptops    ,3,1065,0
+Italy  ,Laptops    ,1,43,0
+Germany,Laptops    ,6,1371,0
+UK     ,Laptops    ,12,2030,0
+Italy  ,Laptops    ,3,2613,0
+Germany,Laptops    ,5,2670,0
+Spain  ,Laptops    ,2,334,0
+UK     ,Laptops    ,4,672,0
+Spain  ,Laptops    ,7,1694,0
+UK     ,Laptops    ,5,443,0
+Italy  ,Laptops    ,8,3250,0
+USA    ,Laptops    ,5,285,0
+Germany,Laptops    ,3,1986,0
+Spain  ,Laptops    ,6,5382,0
+USA    ,Laptops    ,7,5936,0
+Italy  ,Laptops    ,4,252,0
+Germany,Laptops    ,4,2940,0
+UK     ,Laptops    ,6,5268,0
+France ,Laptops    ,1,98,0
+Germany,Laptops    ,8,5745,0
+Italy  ,Laptops    ,3,360,0
+France ,Laptops    ,1,289,0
+Italy  ,Laptops    ,1,511,0
+UK     ,Laptops    ,1,77,0
+Spain  ,Laptops    ,3,1758,0
+France ,Laptops    ,6,3642,0
+Germany,Laptops    ,2,994,0
+France ,Laptops    ,2,1138,0
+Spain  ,Laptops    ,6,2048,0
+Italy  ,Laptops    ,5,235,0
+UK     ,Laptops    ,3,2361,0
+Germany,Laptops    ,3,1578,0
+Spain  ,Laptops    ,8,2913,0
+France ,Laptops    ,5,3625,0
+USA    ,Laptops    ,2,1918,0
+France ,Laptops    ,7,1372,0
+Spain  ,Laptops    ,7,3619,0
+France ,Laptops    ,3,2790,0
+Germany,Laptops    ,6,2274,0
+Spain  ,Laptops    ,4,3276,0
+Italy  ,Laptops    ,3,1704,0
+Spain  ,Laptops    ,1,447,0
+UK     ,Phones     ,5,2170,0
+USA    ,Phones     ,5,455,0
+UK     ,Phones     ,4,1696,0
+France ,Phones     ,3,2973,0
+Italy  ,Phones     ,4,2379,0
+Germany,Phones     ,7,5908,0
+France ,Phones     ,7,6286,0
+USA    ,Phones     ,3,2688,0
+Spain  ,Phones     ,3,2715,0
+Italy  ,Phones     ,3,2454,0
+France ,Phones     ,3,2607,0
+USA    ,Phones     ,3,2955,0
+Italy  ,Phones     ,6,5202,0
+Germany,Phones     ,7,6888,0
+UK     ,Phones     ,3,66,0
+USA    ,Phones     ,1,17,0
+Italy  ,Phones     ,6,774,0
+UK     ,Phones     ,3,2892,0
+France ,Phones     ,3,1677,0
+USA    ,Phones     ,10,3220,0
+France ,Phones     ,7,3619,0
+Germany,Phones     ,6,5748,0
+Italy  ,Phones     ,6,1644,0
+France ,Phones     ,7,3899,0
+UK     ,Phones     ,7,98,0
+France ,Phones     ,9,2572,0
+USA    ,Phones     ,6,2850,0
+Italy  ,Phones     ,6,2526,0
+France ,Phones     ,3,1299,0
+Spain  ,Phones     ,2,1654,0
+Italy  ,Phones     ,3,1518,0
+Germany,Phones     ,7,4032,0
+Spain  ,Phones     ,6,2526,0
+UK     ,Phones     ,5,2460,0
+USA    ,Phones     ,3,1683,0
+Italy  ,Phones     ,7,4490,0
+France ,Phones     ,2,1418,0
+UK     ,Phones     ,2,816,0
+Italy  ,Phones     ,7,1953,0
+France ,Phones     ,3,39,0
+Germany,Phones     ,4,696,0
+USA    ,Audio      ,4,744,0
+France ,Audio      ,4,2704,0
+USA    ,Audio      ,11,4829,0
+Spain  ,Audio      ,2,1122,0
+Italy  ,Audio      ,2,1636,0
+Spain  ,Audio      ,1,901,0
+Germany,Audio      ,6,3750,0
+Spain  ,Audio      ,22,11572,0
+UK     ,Audio      ,7,2989,0
+USA    ,Audio      ,1,911,0
+Germany,Audio      ,7,6937,0
+Spain  ,Audio      ,3,2640,0
+UK     ,Audio      ,3,2217,0
+Germany,Audio      ,7,3220,0
+USA    ,Audio      ,12,9848,0
+Germany,Audio      ,1,515,0
+UK     ,Audio      ,5,1870,0
+Spain  ,Audio      ,2,980,0
+Italy  ,Audio      ,2,1888,0
+France ,Audio      ,5,510,0
+USA    ,Audio      ,4,1224,0
+Spain  ,Audio      ,5,4905,0
+USA    ,Audio      ,7,4809,0
+UK     ,Audio      ,7,2184,0
+Germany,Audio      ,5,2390,0
+USA    ,Audio      ,11,8914,0
+France ,Audio      ,1,742,0
+Germany,Audio      ,6,3450,0
+USA    ,Audio      ,4,1068,0
+Germany,Audio      ,3,234,0
+France ,Audio      ,1,544,0
+USA    ,Audio      ,1,41,0
+Spain  ,Audio      ,6,1668,0
+UK     ,Audio      ,1,925,0
+Spain  ,Audio      ,1,83,0
+UK     ,Audio      ,6,5334,0
+Italy  ,Audio      ,1,79,0
+Germany,Audio      ,4,1144,0
+Spain  ,Audio      ,7,462,0
+UK     ,Audio      ,6,5424,0
+Italy  ,Audio      ,4,1980,0

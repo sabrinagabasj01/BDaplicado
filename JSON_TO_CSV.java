@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 public class ConvertJSONtoCSVInJava {
     public static void main(String[] args) throws Exception { /
  
-    License licenseToConvertJSON = new License();
+         License licenseToConvertJSON = new License();
     licenseToConvertJSON.setLicense("Aspose.Cells.lic");
 
     String content = new String(Files.readAllBytes(Paths.get("/home/iabd00/Descargas/kz.json")));
@@ -17,7 +17,7 @@ public class ConvertJSONtoCSVInJava {
     Workbook workbook = new Workbook();
 
     Cells cells = workbook.getWorksheets().get(0).getCells();
-    JsonLayoutOptions options = new JsonLayoutOptions();
+            JsonLayoutOptions options = new JsonLayoutOptions();
     options.setConvertNumericOrDate(true);
     options.setArrayAsTable(true);
     options.setIgnoreArrayTitle(true);
